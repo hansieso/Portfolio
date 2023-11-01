@@ -1,4 +1,4 @@
-# Your Name's Portfolio
+# Hans's Portfolio
 Welcome to my portfolio! I'm Hans, and I'm passionate about Coding, Design, Game development, Project management. This portfolio showcases a selection of my work and projects in these areas.
 
 
