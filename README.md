@@ -20,7 +20,8 @@ Explore my work based on different categories:
 
 ## Contact Me
 If you have any questions or would like to connect, feel free to reach out to me via: 
-Email: hansso712@gmail.com 
+Personal Email: hansso712@gmail.com 
+School Email: hansso@g.ucla.edu
 LinkedIn: www.linkedin.com/in/hans-so
 
 
