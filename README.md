@@ -1,6 +1,6 @@
 # Hans's Portfolio
 
-Welcome to my portfolio! I'm Hans, and I'm passionate about Coding, Design, Game development, and Project management. This portfolio showcases a selection of my work and projects in these areas.
+Welcome to my portfolio! I'm Hans, and I'm passionate about Coding, Design, Game development, and Project/Product management. This portfolio showcases a selection of my work and projects in these areas.
 
 ## About Me
 I am a penultimate year student at UCLA pursuing a major in Cognitive Science and a minor in Digital Humanities.
