@@ -24,18 +24,14 @@ Page 3-- **Join Page**
 
 **Wireflow:**
 - Landing page to include a business logo, model/image, album covers, buttons, and iconography for **Discover** and **Join** pages.
+![Taskflow + Wireflow](https://github.com/hansieso/Portfolio/blob/924cdb8253b4d36038017a702b11c1bd86f8710b/Github%20Portfolio%20Pictures/taskflow1.jpg)
 
-![Building SoundWave Logo](https://github.com/hansieso/Portfolio/blob/924cdb8253b4d36038017a702b11c1bd86f8710b/Github%20Portfolio%20Pictures/taskflow1.jpg)
-<div style="display: flex; align-items: center;">
-   <img src="https://github.com/hansieso/Portfolio/blob/924cdb8253b4d36038017a702b11c1bd86f8710b/Github%20Portfolio%20Pictures/taskflow1.jpg" alt="SoundWave Logo" width="400">
-   <div>
      
 ## Design Details
 
 #### Building SoundWave Logo
 - Figma, usage of eclipse tool and vector tool to create wave like icon
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/hansieso/Portfolio/blob/924cdb8253b4d36038017a702b11c1bd86f8710b/Github%20Portfolio%20Pictures/taskflow1.jpg" alt="SoundWave Logo" width="400">
+![Building SoundWave logo](https://github.com/hansieso/Portfolio/blob/924cdb8253b4d36038017a702b11c1bd86f8710b/Github%20Portfolio%20Pictures/taskflow1.jpg)
 
 #### Final SoundWave Logo
 <img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/finalsoundwavelogo.png" alt="SoundWave Logo" width="400">
