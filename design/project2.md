@@ -17,8 +17,8 @@ The foundation of our redesign process involved meticulously crafting wireframes
 ## Icons
 Specific icons were thoughtfully selected to represent the app's productivity theme. These icons, including Prod Icon 1 and Prod Icon 2, were strategically integrated to enhance the user experience and signify the productivity features of the app. Additionally, the choice of the "Man in suit" icon as a profile picture offered users a familiar and relatable image.
 <br>
-<img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/prodicon1.png" alt="Prod Icon 1" width="300">
-<img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/prodicon2.png" alt="Prod Icon 2" width="300">
+<img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/prodicon1.png" alt="Prod Icon 1" width="300" height = "300">
+<img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/prodicon2.png" alt="Prod Icon 2" width="300" height = "300">
 <br> 
 <br>
 Man in suit to represent profile picture of user. 
