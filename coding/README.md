@@ -1,6 +1,6 @@
 # Code Projects
 
-Welcome to my design projects section. This area showcases my work related to web design, UI/UX, app design, and logo design.
+Welcome to my code projects section. This area showcases my code skills for frontend, game development, as well as problem sets.
 
 ## Project 1: Web Design + UI - Music Streaming Service Landing Page (full code) 
 
