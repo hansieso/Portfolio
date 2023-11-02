@@ -12,7 +12,7 @@ ToDo is an application that allows students to create their own task list.
 
 ## Icons
 Icons chosen to represent productivity/theme of the app. 
-<\n>
+<br>
 <img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/prodicon1.png" alt="Prod Icon 1" width="300">
 <img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/prodicon2.png" alt="Prod Icon 2" width="300">
 
