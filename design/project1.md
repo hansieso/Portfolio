@@ -22,7 +22,7 @@ Page 2 -- **Discover page**
 Page 3-- **Join Page**
 - User is given a form for sign-up.
  <div style="display: flex; align-items: center;">
-   <img src="https://github.com/hansieso/Portfolio/blob/8572f291ee40e5b1ff85128e25e3c5a7bca8a9e8/taskflow1.jpg" alt="SoundWave Logo" width="400">
+   <img src="https://github.com/hansieso/Portfolio/blob/924cdb8253b4d36038017a702b11c1bd86f8710b/Github%20Portfolio%20Pictures/taskflow1.jpg" alt="SoundWave Logo" width="400">
    <div>
      
 **Wireflow:**
