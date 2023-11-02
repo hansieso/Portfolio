@@ -29,8 +29,9 @@ Man in suit to represent profile picture of user.
 <img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/timeicon.png" alt="Time Icon" width="200">
 Also Display greeting depending on time of day.
 <br>
+
 - Addition Icon
-<img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/additionpng.png" alt="Addition Icon" width="200">
+<img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/additionpng.png" alt="Addition Icon" width="100" height = "100">
 
 - Also include phone icons for app design
 <img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/IOS+icon.png" alt="IOS Icon" width="200">
