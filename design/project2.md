@@ -32,8 +32,8 @@ Man in suit to represent profile picture of user.
 Our commitment to improving user productivity extended to providing users with tools to better manage their time. A clock icon was thoughtfully integrated into the task page, enabling users to gauge how much time they needed for specific tasks. This feature facilitated better planning and task management. Incorporating a dynamic element, the app also displayed greetings tailored to the time of day, creating a personalized and engaging user experience.
 - Clock displayed to user in task page to help user indicate how much time they have to do set tasks — help plan out tasks to do.
 - Font used: Poppins
-<img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/clockicon.jpg" alt="Clock Icon" width="200" height = "200">
-<img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/timeicon.png" alt="Time Icon" width="200" height = "200">
+<img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/clockicon.jpg" alt="Clock Icon" width="200">
+<img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/timeicon.png" alt="Time Icon" width="200">
 <br>
 
 - Addition Icon
