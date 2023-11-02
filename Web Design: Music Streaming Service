@@ -7,7 +7,35 @@
 <body>
     <!-- Your project content goes here -->
     <h1>Challenge: Design a Landing Page for a Music Streaming Service</h1>
+    
     <!-- Add the taskflow and wireflow details here -->
+    <h4>Taskflow + Wireflow</h4>
+
+<h5>Taskflow:</h5>
+<p>User starts at the landing page, given the option to:</p>
+<ul>
+  <li>Discover more music provided by SoundWave, the music streaming service</li>
+  <li>Join SoundWave (membership)</li>
+</ul>
+
+<h5>Discover Page:</h5>
+<p>User is given three options:</p>
+<ul>
+  <li>Explore charts</li>
+  <li>Explore albums</li>
+  <li>Explore more</li>
+</ul>
+
+<h5>Join Page:</h5>
+<p>User is given a form for sign-up.</p>
+
+<h5>Wireflow:</h5>
+<p>Landing page includes a business logo, model/image, album covers, buttons, and iconography for Discover and Join pages.</p>
+
+
+
+
+
     <p>Taskflow: User starts at the landing page, given option to...</p>
     <!-- Add more project details, images, and code snippets as needed -->
 
