@@ -7,7 +7,7 @@ Welcome to my coding projects section. This area showcases my coding skills for 
 - **Description:** Simple implementation of Flappy Bird using Java Swing. Hit Space to play the game.
 - [Click Here](https://github.com/hansieso/Portfolio/tree/main/coding/flappybird) to access the code and read more about the full game design.
 
-<img src=https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/Flappybirdplay1.png alt = "flappybird1" width="200" height = "200">
+<img src=https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/Flappybirdplay1.png alt = "flappybird1" width="250" height = "250">
 
 ## Web Design + UI - Music Streaming Service Landing Page (full code) 
 - **Challenge:** Design a landing page for a music streaming service.
