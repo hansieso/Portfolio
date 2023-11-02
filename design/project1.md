@@ -31,10 +31,10 @@ Page 3-- **Join Page**
 
 #### Building SoundWave Logo
 - Figma, usage of eclipse tool and vector tool to create wave like icon
-![Building SoundWave logo](https://github.com/hansieso/Portfolio/blob/924cdb8253b4d36038017a702b11c1bd86f8710b/Github%20Portfolio%20Pictures/buildingsoundlogo.png)
+<img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/buildingsoundlogo" alt="Building SoundWave Logo" width="400">
 
 #### Final SoundWave Logo
-<img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/finalsoundwavelogo.png" alt="SoundWave Logo" width="400">
+<img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/finalsoundwavelogo.png" alt="Final SoundWave Logo" width="400">
 
 #### Buttons: mic, stack, arrow.
 - Buttons for Landing Page:
@@ -42,7 +42,7 @@ Page 3-- **Join Page**
   - stack icon to represent albums
   - arrow icon to represent more. 
   - Social media icons for company outreach
-<img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/buttonsmicstackarrow.png" alt="SoundWave Logo" width="400">
+<img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/buttonsmicstackarrow.png" alt="Buttons" width="400">
 *Icons taken from unDraw, an open source illustration, and SVG depository.*
 
 ### Landing Page
@@ -51,14 +51,14 @@ Page 3-- **Join Page**
   - Users are given discover and join options on the top right of the page.
   - Join Now button in the center of the page encourages users to join the service.
   - Model is calm while listening to music, coherent with the logo design of "wave".
-<img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/landingp.png" alt="SoundWave Logo" width="400">
+<img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/landingp.png" alt="Landing Page" width="400">
 
 ### Discover Page
 - Discover Page
   - Users are given an option to explore charts, albums, or more.
   - Collection of albums that are included in the service is displayed on the right-hand side.
 - insert image here
-<img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/discoverp.png" alt="SoundWave Logo" width="400">
+<img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/discoverp.png" alt="Discover Page" width="400">
 
 ### Join Page
 
@@ -66,20 +66,20 @@ Page 3-- **Join Page**
   - Initial join feature is simple, only asking for name, email, and password.
   - Wave uses the same color blend as the logo, front and center, prompting users to join.
   - Contact Us and About page are potential pages to be created in the future to provide extra detail to the UI.
-<img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/joinp.png" alt="SoundWave Logo" width="400">
+<img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/joinp.png" alt="Join Page" width="400">
 
 ### HTML for Site Header (Part 1: Header + Styles)
 - This section provides HTML and CSS details for the site header.
 *NB: this a small part of the HTML + CSS code I have built. Full code is posted on Github*
 HTML: 
-- href for brand logo link to home page. Assigned brand logo class for access +edits in CSS 
+- href for brand logo link to home page. Assigned brand logo class for access + edits in CSS 
 - nav element for discover and join, with both being navigation elements.
 
 CSS: 
 - box-sizing set to boarder box to set heights and widths to a desired ratio.
 - No margin or padding, set background, colour, font, and font size of body to desired specifications of design.
 - Brand Logo set to display on left side of page. (moved to desired position later on in code)
-<img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/code1.png" alt="SoundWave Logo" width="400">
-<img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/stylescss.png" alt="SoundWave Logo" width="400">
+<img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/code1.png" alt="HTML Code" width="400">
+<img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/stylescss.png" alt="CSS Code" width="400">
 
 For the full code and more details, please visit the project on [GitHub](URL-to-GitHub-project).
