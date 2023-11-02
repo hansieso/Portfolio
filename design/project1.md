@@ -21,6 +21,7 @@ Page 3-- **Join Page:**
  <div style="display: flex; align-items: center;">
    <img src="https://github.com/hansieso/Portfolio/blob/8572f291ee40e5b1ff85128e25e3c5a7bca8a9e8/taskflow1.jpg" alt="SoundWave Logo" width="400">
    <div>
+     
 **Wireflow:**
 - Landing page to include a business logo, model/image, album covers, buttons, and iconography for **Discover** and **Join** pages.
 
