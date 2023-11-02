@@ -42,10 +42,5 @@ Final Result:
 
 Final Logo Design.
 <img src="https://github.com/hansieso/Portfolio/blob/30f8b9bd06ecf41415cd12661423445667f58f2e/Github%20Portfolio%20Pictures/finalBIGH.png" alt="Final Personal Logo" width="500">
-
-Previous
-ToDo: Productivity Mobile App
-Next
-NBA Infographics
 © 2022 Hans So
 
