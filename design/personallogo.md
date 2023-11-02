@@ -7,8 +7,8 @@ A Personal logo is a strong symbol of self-expression and creativity. This proje
 ## Research and Inspiration: ##
 Using Pinterest and the typography-rich archives of FontLibrary, I drew inspiration from different logos. This foundational stage involved sketching and brainstorming, exploring the possibilities of combining the letters "H" and "S." Throughout the research and sketching process, I found layered fonts to be the most appealing — in particular, 3D fonts. 
 <br>
-<img src = "https://github.com/hansieso/Portfolio/blob/fb7b1257f00396fb336146cae5ca6bb3a7c88d7b/Github%20Portfolio%20Pictures/Pintrest%2BH1.png" height = "150" width = "150">
-<img src = "https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/pintrest%2BH2.png" height = "150" width = "150">
+<img src = "https://github.com/hansieso/Portfolio/blob/fb7b1257f00396fb336146cae5ca6bb3a7c88d7b/Github%20Portfolio%20Pictures/Pintrest%2BH1.png" height = "150" width = "250">
+<img src = "https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/pintrest%2BH2.png" height = "150" width = "250">
 
 ## Design using Figma ##
 Through Figma, I refined our designs and explored font types, sizes, and structures. By utilizing the "Roto" plugin, I achieved a three-dimensional effect, bringing depth and character to our logo, patterned with various dashes. I continued to experiment with font types, size, and structure. In particular, I tried to take parts of the letters H and S and used the flatten function, to take apart and piece together the letters.
