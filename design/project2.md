@@ -15,15 +15,13 @@ Specific icons are chosen to represent productivity/theme of the app.
 <br>
 <img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/prodicon1.png" alt="Prod Icon 1" width="300" height = "300">
 <img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/prodicon2.png" alt="Prod Icon 2" width="300" height = "300">
-
-<br> <br>
+<br>
 Man in suit to represent profile picture of user. 
 <br>
 <img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/manicon.png" alt="Man icon" width="300">
 <br>
 *Icons taken from unDraw, an open source illustration and SVG depository*
-
-
+<br> <br>
 
 **Additional Detail and Iconography:** 
 
