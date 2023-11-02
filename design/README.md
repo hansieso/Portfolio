@@ -2,7 +2,7 @@
 
 Welcome to my design projects section. This area showcases my work related to web design, UI/UX, app design, and logo design.
 
-## Project 1: Web Design + UI - Music Streaming Service Landing Page
+## Web Design + UI - Music Streaming Service Landing Page
 
 - **Challenge:**  Design a captivating Landing Page for a Music Streaming Service, SoundWave. This project aimed to create a visually appealing and user-friendly landing page that engages visitors and encourages them to explore the world of music with SoundWave.
 - **Description:** Dive into the world of SoundWave, where design meets music. Our challenge was to create a captivating landing page for a music streaming service. The result? An enticing gateway to a world of music, complete with thoughtfully designed user pathways, a meticulously crafted brand logo, and engaging iconography.
@@ -12,7 +12,7 @@ Welcome to my design projects section. This area showcases my work related to we
 <img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/landingp.png" alt="Final SoundWave Logo" width="400">
 
   
-## Project 2: UI/UX Design - Mobile App Redesign
+## UI/UX Design - Mobile App Redesign
 
 - **Challenge:** Redesign a mobile app for improved user experience.
 - **Description:** In this project, we aimed to enhance the user experience of an existing mobile app by revamping its interface and functionality. The goal was to create an app that offers an intuitive, user-friendly, and visually appealing experience for our users. The redesign focused on streamlining the user journey, improving navigation, and enhancing the overall aesthetic.
