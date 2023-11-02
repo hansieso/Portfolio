@@ -38,4 +38,4 @@ Man in suit to represent profile picture of user.
 
 
 ## Final Prototype
-![Final Prototype](https://https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/finallayout.png)
+![Final Prototype](https://github.com/hansieso/Portfolio/blob/27c2d390f08a3392c6cc9600983150468aada629/Github%20Portfolio%20Pictures/finallayout.png)
