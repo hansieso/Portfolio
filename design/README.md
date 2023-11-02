@@ -9,7 +9,7 @@ Welcome to my design projects section. This area showcases my work related to we
 - **Wireflow:** Describe the wireflow used in the project.
 - **Images:** Include images or links to the design work.
 - **HTML & CSS:** Provide snippets or links to code if applicable.
-- [Read more](design/project1/README.md) about this project.
+- [Read more](project1.md) about this project.
   
 ## Project 2: UI/UX Design - Mobile App Redesign
 
