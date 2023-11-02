@@ -1,27 +1,41 @@
 ## ToDo: A Productivity Mobile App (Prototype)
 
 ### Challenge
-Design a Landing Page for a Music Streaming Service.
+Design a productivity application increases student accountability on campus.
 
-## Taskflow + Wireflow
+### Solution
+ToDo is an application that allows students to create their own task list
 
-**Taskflow + Wireflow:**
+## Wireframing
+![Wireframe](https://github.com/hansieso/Portfolio/blob/924cdb8253b4d36038017a702b11c1bd86f8710b/Github%20Portfolio%20Pictures/wireframfull.png)
 
-**Taskflow:** 
 
-Page 1 -- User starts at the **Landing page**, given the option to:
-- Discover more music provided by SoundWave, the music streaming service.
-- Join SoundWave (membership).
+## Icons
+Icons chosen to represent productivity/theme of the app. 
+<img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/prodicon1.png" alt="Prod Icon 1" width="200">
+<img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/prodicon2.png" alt="Prod Icon 2" width="200">
 
-Page 2 -- **Discover page** 
-- User is then given three options:
-  - Explore charts.
-  - Explore albums.
-  - Explore more.
 
-Page 3-- **Join Page**
-- User is given a form for sign-up.
+Man in suit to represent profile picture of user. 
+<img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/manicon.png" alt="Man icon" width="300">
+*Icons taken from unDraw, an open source illustration and SVG depository*
 
-**Wireflow:**
-- Landing page to include a business logo, model/image, album covers, buttons, and iconography for **Discover** and **Join** pages.
-![Taskflow + Wireflow](https://github.com/hansieso/Portfolio/blob/924cdb8253b4d36038017a702b11c1bd86f8710b/Github%20Portfolio%20Pictures/taskflow1.jpg)
+
+
+**Additional Detail and Iconography:** 
+
+- Clock displayed to user in task page to help user indicate how much time they have to do set tasks — help plan out tasks to do.
+<img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/clockicon.jpg" alt="Clock Icon" width="200">
+<img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/timeicon.png" alt="Time Icon" width="200">
+- display greeting depending on time of day. 
+- Font used: Poppins
+
+- Addition Icon
+<img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/additionpng.png" alt="Addition Icon" width="200">
+
+- Also include phone icons for app design
+<img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/IOS+icon.png" alt="IOS Icon" width="200">
+
+
+## Final Prototype
+![Final Prototype](https://https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/finallayout.png)
