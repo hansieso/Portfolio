@@ -1,4 +1,4 @@
-## ToDo: A Productivity Mobile App (Prototype)
+## SoundWave: Music Streaming Landing Page (Prototype)
 
 ### Challenge
 Design a Landing Page for a Music Streaming Service.
