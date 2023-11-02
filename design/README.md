@@ -9,7 +9,7 @@ Welcome to my design projects section. This area showcases my work related to we
 - **Wireflow:** Design elements used -- standout business logo, captivating images, Intuitive buttons and icongraphy to guide users. 
 - **HTML & CSS:** The project includes the HTML and CSS details for the site header. This code lays the foundation for the project's visual elements and navigation. [See full code](https://github.com/hansieso/Portfolio/blob/main/coding/project1.html)
 <img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/landingp.png" alt="Final SoundWave Logo" width="400">
-[Click here to see more](project1.md)
+[Read about full project here](https://github.com/hansieso/Portfolio/blob/d5569fba2703a4ee15fa3602876c61f80e5cc2cf/design/project1.md)
   
 ## Project 2: UI/UX Design - Mobile App Redesign
 
