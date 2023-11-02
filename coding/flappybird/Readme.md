@@ -1,6 +1,6 @@
 # Simple Flappy Bird Game #
 
-## Title: Simple Flappy Bird Game (Java Swing) ##
+## Simple Flappy Bird Game (Java Swing) ##
 
 Description:
 
