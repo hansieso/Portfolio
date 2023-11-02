@@ -71,6 +71,7 @@ Page 3-- **Join Page**
 ### HTML for Site Header (Part 1: Header + Styles)
 - This section provides HTML and CSS details for the site header.
 *NB: this a small part of the HTML + CSS code I have built. Full code is posted on Github*
+
 HTML: 
 - href for brand logo link to home page. Assigned brand logo class for access + edits in CSS 
 - nav element for discover and join, with both being navigation elements.
