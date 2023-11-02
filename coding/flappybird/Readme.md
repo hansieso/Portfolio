@@ -32,5 +32,5 @@ Usage:
 
 To play the game, simply run the application. Press the spacebar to make the bird jump and navigate it through the pipes. The game keeps track of your score, and it ends when the bird collides with a pipe or the ground.
 
-This Flappy Bird implementation serves as an excellent showcase of your Java Swing programming skills and provides a fun, interactive addition to your portfolio.
+
 <img src=https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/Flappybirdplay1.png>
