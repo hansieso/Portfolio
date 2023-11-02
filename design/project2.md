@@ -4,7 +4,7 @@
 Design a productivity application increases student accountability on campus.
 
 ### Solution
-ToDo is an application that allows students to create their own task list
+ToDo is an application that allows students to create their own task list.
 
 ## Wireframing
 ![Wireframe](https://github.com/hansieso/Portfolio/blob/924cdb8253b4d36038017a702b11c1bd86f8710b/Github%20Portfolio%20Pictures/wireframfull.png)
@@ -12,8 +12,8 @@ ToDo is an application that allows students to create their own task list
 
 ## Icons
 Icons chosen to represent productivity/theme of the app. 
-<img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/prodicon1.png" alt="Prod Icon 1" width="200">
-<img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/prodicon2.png" alt="Prod Icon 2" width="200">
+<img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/prodicon1.png" alt="Prod Icon 1" width="300">
+<img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/prodicon2.png" alt="Prod Icon 2" width="300">
 
 
 Man in suit to represent profile picture of user. 
