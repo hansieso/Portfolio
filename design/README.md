@@ -19,6 +19,6 @@ Welcome to my design projects section. This area showcases my work related to we
 - **Prototyping:** To bring the redesigned app to life, we used prototyping tools to create interactive mockups. These prototypes allowed us to visualize how users would interact with the app and test the usability of the new design.
 - [Read more](project2.md) about this project
 
-<div></div>
+<br>
 [Back to Main Page](../README.md)
 
