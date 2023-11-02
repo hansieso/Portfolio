@@ -51,14 +51,15 @@ Page 3-- **Join Page**
   - Users are given discover and join options on the top right of the page.
   - Join Now button in the center of the page encourages users to join the service.
   - Model is calm while listening to music, coherent with the logo design of "wave".
-<img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/landingp.png" alt="Landing Page" width="400">
+![Landing Page](https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/landingp.png)
+
 
 ### Discover Page
 - Discover Page
   - Users are given an option to explore charts, albums, or more.
   - Collection of albums that are included in the service is displayed on the right-hand side.
-- insert image here
-<img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/discoverp.png" alt="Discover Page" width="400">
+![Discover Page](https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/discoverp.png)
+
 
 ### Join Page
 
