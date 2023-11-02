@@ -5,7 +5,8 @@ Welcome to my coding projects section. This area showcases my coding skills for 
 ## Flappy Bird Implementation
 - **Challenge:** Design a simple version of Flappy Bird
 - **Description:** Simple implementation of Flappy Bird using Java Swing. Hit Space to play the game.
-- [Read More](https://github.com/hansieso/Portfolio/blob/main/design/project1.md) about the full design.
+- [Click Here](https://github.com/hansieso/Portfolio/tree/main/coding/project1) to access the code. 
+- [Read More](https://github.com/hansieso/Portfolio/blob/main/design/project1.md) about the full game design.
 
 
 ## Web Design + UI - Music Streaming Service Landing Page (full code) 
