@@ -20,6 +20,7 @@ Specific icons are chosen to represent productivity/theme of the app.
 Man in suit to represent profile picture of user. 
 <br>
 <img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/manicon.png" alt="Man icon" width="300">
+<br>
 *Icons taken from unDraw, an open source illustration and SVG depository*
 
 
