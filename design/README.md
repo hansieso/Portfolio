@@ -18,7 +18,7 @@ Welcome to my design projects section. This area showcases my work related to we
 - **Description:** In this project, we aimed to enhance the user experience of an existing mobile app by revamping its interface and functionality. The goal was to create an app that offers an intuitive, user-friendly, and visually appealing experience for our users. The redesign focused on streamlining the user journey, improving navigation, and enhancing the overall aesthetic.
 - **Wireframe:** Wireframes and user flows were meticulously crafted to guide the redesign process. These wireframes served as the blueprint for the new app, outlining the layout, content placement, and user interactions.
 - **Prototyping:** To bring the redesigned app to life, we used prototyping tools to create interactive mockups. These prototypes allowed us to visualize how users would interact with the app and test the usability of the new design.
-- [Read more](project2.md) about this project
+- [Read more](https://github.com/hansieso/Portfolio/blob/main/design/productivityapp.md) about this project
 <img src="https://github.com/hansieso/Portfolio/blob/27c2d390f08a3392c6cc9600983150468aada629/Github%20Portfolio%20Pictures/finallayout.png" alt="Final SoundWave Logo" width="500">
 <br>
 
