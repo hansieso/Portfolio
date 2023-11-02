@@ -31,7 +31,7 @@ Page 3-- **Join Page**
 
 #### Building SoundWave Logo
 - Figma, usage of eclipse tool and vector tool to create wave like icon
-![Building SoundWave logo](https://github.com/hansieso/Portfolio/blob/924cdb8253b4d36038017a702b11c1bd86f8710b/Github%20Portfolio%20Pictures/taskflow1.jpg)
+![Building SoundWave logo](https://github.com/hansieso/Portfolio/blob/924cdb8253b4d36038017a702b11c1bd86f8710b/Github%20Portfolio%20Pictures/buildingsoundlogo.png)
 
 #### Final SoundWave Logo
 <img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/finalsoundwavelogo.png" alt="SoundWave Logo" width="400">
