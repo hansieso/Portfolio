@@ -13,7 +13,7 @@ Here, you can explore my work based on different categories:
 - [**Coding**](coding/README.md): Discover my coding projects and contributions.
 - [**Design**](design/README.md): View my design work and visual projects.
 - [**Gaming**](gaming/README.md): Check out my game development and gaming projects, as well as management work for UCLA Esports.
-- [**Project Management**](project-management/README.md): See how I've managed and led various projects.
+- [**Project Management**](project-product-management/README.md): See how I've managed and led various projects.
 
 Feel free to click on the category links above to explore each section in detail.
 
