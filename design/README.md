@@ -8,7 +8,7 @@ Welcome to my design projects section. This area showcases my work related to we
 - **Description:** Provide a brief description of the project.
 - **Wireflow:** Describe the wireflow used in the project.
 - **HTML & CSS:** The project includes the HTML and CSS details for the site header. This code lays the foundation for the project's visual elements and navigation.
-Note: The code shown in this section represents only a fraction of the HTML and CSS code developed. The complete code can be accessed on the project's GitHub repository. [See full code here]("https://github.com/hansieso/Portfolio/blob/main/coding/project1.html") 
+Note: The code shown in this section represents only a fraction of the HTML and CSS code developed. The complete code can be accessed on the project's GitHub repository. [See full code here](coding/project1.html) 
 - [Read more](project1.md) about this project.
   
 ## Project 2: UI/UX Design - Mobile App Redesign
