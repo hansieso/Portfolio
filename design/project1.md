@@ -1,6 +1,6 @@
 ## ToDo: A Productivity Mobile App (Prototype)
 
-## Challenge
+### Challenge
 Design a Landing Page for a Music Streaming Service.
 
 ## Taskflow + Wireflow
@@ -24,7 +24,8 @@ Page 3-- **Join Page**
 
 **Wireflow:**
 - Landing page to include a business logo, model/image, album covers, buttons, and iconography for **Discover** and **Join** pages.
- <div style="display: flex; align-items: center;">
+![Building SoundWave Logo]
+<div style="display: flex; align-items: center;">
    <img src="https://github.com/hansieso/Portfolio/blob/924cdb8253b4d36038017a702b11c1bd86f8710b/Github%20Portfolio%20Pictures/taskflow1.jpg" alt="SoundWave Logo" width="400">
    <div>
      
