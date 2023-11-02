@@ -27,7 +27,7 @@ Welcome to my design projects section. This area showcases my work related to we
 - **Challenge:** Design a personal Logo
 - **Description:** In this project, I created a personal Logo using typograph of letters of initials. (“H” and “S”)
 - [Read more](https://github.com/hansieso/Portfolio/blob/main/design/productivityapp.md) about this project
-<img src="https://github.com/hansieso/Portfolio/blob/27c2d390f08a3392c6cc9600983150468aada629/Github%20Portfolio%20Pictures/finalBIGH.png" alt="Final Personal Logo" width="500">
+<img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/finalBIGH.png" alt="Final Personal Logo" width="500">
 <br>
 
 [Back to Main Page](../README.md)
