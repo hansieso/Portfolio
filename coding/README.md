@@ -1,6 +1,6 @@
 # Coding Projects
 
-Welcome to my coding projects section. This area showcases my coding skills for frontend, game development, as well as solution to problem sets.
+Welcome to my coding projects section. This area showcases my coding skills for frontend development, game development, as well as solution to problem sets.
 
 ## Project 1: Web Design + UI - Music Streaming Service Landing Page (full code) 
 
