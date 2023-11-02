@@ -39,6 +39,7 @@ I also wanted to include the vectored (stripped) design as shown above. and used
 If a viewer is paying close attention, they may also spot that with some of the sketches/mock up designs, some of the front facing H’s in the 3D shapes are protruding out of the letter frame. To fix this issue, I used insert selection and layers of vectors to smoothen out the edges. 
 
 Final Result:
+<br>
 <img src="https://github.com/hansieso/Portfolio/blob/30f8b9bd06ecf41415cd12661423445667f58f2e/Github%20Portfolio%20Pictures/finalBIGH.png" alt="Final Personal Logo" width="500">
 
 © 2022 Hans So
