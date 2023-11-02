@@ -6,7 +6,7 @@ Welcome to my coding projects section. This area showcases my coding skills for 
 
 - **Challenge:** Design a landing page for a music streaming service.
 - **Description:** Provide a brief description of the project.
-- **HTML & CSS:** [Click Here](project1.html) to access the folder to the full code for this project.
+- **HTML & CSS:** [Click Here](project1.html) to access the folder to the full code for this project that brings the design to life.
 - [Read More](https://github.com/hansieso/Portfolio/blob/main/design/project1.md) about the full design. 
   
 ## Project 2: UI/UX Design - Mobile App Redesign
