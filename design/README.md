@@ -18,7 +18,7 @@ Welcome to my design projects section. This area showcases my work related to we
 - **Wireframes:** Include wireframes and user flows.
 - **Screenshots:** Show before and after screenshots.
 - **Prototyping:** Mention any prototyping tools used.
-- [Read more](design/project2/README.md) about this project
+- [Read more](design/project2.md) about this project
 
 [Back to Main Page](../README.md)
 
