@@ -19,7 +19,7 @@ Welcome to my design projects section. This area showcases my work related to we
 - **Wireframes:** Wireframes and user flows were meticulously crafted to guide the redesign process. These wireframes served as the blueprint for the new app, outlining the layout, content placement, and user interactions.
 - **Prototyping:** To bring the redesigned app to life, we used prototyping tools to create interactive mockups. These prototypes allowed us to visualize how users would interact with the app and test the usability of the new design.
 - [Read more](project2.md) about this project
-<img src="https://github.com/hansieso/Portfolio/blob/27c2d390f08a3392c6cc9600983150468aada629/Github%20Portfolio%20Pictures/finallayout.png" alt="Final SoundWave Logo" width="400">
+<img src="https://github.com/hansieso/Portfolio/blob/27c2d390f08a3392c6cc9600983150468aada629/Github%20Portfolio%20Pictures/finallayout.png" alt="Final SoundWave Logo" width="400" height="300">
 <br>
 
 [Back to Main Page](../README.md)
