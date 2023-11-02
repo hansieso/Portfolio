@@ -1,7 +1,7 @@
 # Hans's Portfolio
 
 Welcome to my portfolio! I'm Hans, and I'm passionate about Coding, Design, Game development, and Project Management. This portfolio showcases a selection of my work and projects in these areas.
-![Hans](https://raw.githubusercontent.com/hansieso/Portfolio/7dae9ac3ba3f20324da4f590a041e24f5bda545a/Github%20Portfolio%20Pictures/menhotpot.PNG)
+![Hans](https://raw.githubusercontent.com/hansieso/Portfolio/7dae9ac3ba3f20324da4f590a041e24f5bda545a/Github%20Portfolio%20Pictures/menhotpot.PNG){:width="200px" height="auto"}
 
 ## About Me
 
