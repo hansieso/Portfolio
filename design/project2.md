@@ -7,7 +7,7 @@ Design a productivity application increases student accountability on campus.
 ToDo is an application that allows students to create their own task list.
 
 ## Wireframing
-![Wireframe](https://github.com/hansieso/Portfolio/blob/924cdb8253b4d36038017a702b11c1bd86f8710b/Github%20Portfolio%20Pictures/wireframfull.png)
+![Wireframe](https://github.com/hansieso/Portfolio/blob/337703c8aaa2d6475d0efbd441246066a20f8b6f/Github%20Portfolio%20Pictures/wireframefull.png)
 
 
 ## Icons
@@ -27,8 +27,7 @@ Man in suit to represent profile picture of user.
 - Clock displayed to user in task page to help user indicate how much time they have to do set tasks — help plan out tasks to do.
 <img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/clockicon.jpg" alt="Clock Icon" width="200">
 <img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/timeicon.png" alt="Time Icon" width="200">
-<br>
-- display greeting depending on time of day. 
+- Display greeting depending on time of day. 
 - Font used: Poppins
 
 - Addition Icon
