@@ -25,7 +25,7 @@ Page 3-- **Join Page:**
 - Landing page to include a business logo, model/image, album covers, buttons, and iconography for **Discover** and **Join** pages.
 
 
-### Design Details
+## Design Details
 
 #### Building SoundWave Logo
 - Describe how you created the SoundWave logo.
