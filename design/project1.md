@@ -1,4 +1,4 @@
-## SoundWave: Music Streaming Landing Page (Prototype)
+## SoundWave: Landing Page + Logo Design (Prototype)
 
 ### Challenge
 Design a Landing Page for a Music Streaming Service.
