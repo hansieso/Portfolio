@@ -10,7 +10,7 @@ Welcome to my design projects section. This area showcases my work related to we
 - **Images:** Include images or links to the design work.
 - **HTML & CSS:** Provide snippets or links to code if applicable.
 - [Read more](coding/project1.md) about this project.
-- [Click here](design/project1.md) for the full design. 
+- [Click here](https://github.com/hansieso/Portfolio/blob/main/design/project1.md) for the full design. 
   
 ## Project 2: UI/UX Design - Mobile App Redesign
 
