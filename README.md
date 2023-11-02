@@ -13,7 +13,7 @@ Explore my work based on different categories:
 - **Project Management:** See how I've managed and led various projects.
 
 ## How to Navigate
-- Start with the [main page](index.html) to get an overview of my portfolio.
+- Start with the [main page](https://hansieso.github.io/Portfolio/) to get an overview of my portfolio.
 - Navigate to specific projects by clicking the links in each category's section.
 
 ## Contact Me
