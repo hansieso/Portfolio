@@ -84,4 +84,4 @@ CSS:
 <img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/code1.png" alt="HTML Code" width="400">
 <img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/stylescss.png" alt="CSS Code" width="400">
 
-For the full code and more details, please visit the project on [GitHub](URL-to-GitHub-project).
+For the full code and more details, please visit the project [here](https://github.com/hansieso/Portfolio/tree/main/coding/project1).
