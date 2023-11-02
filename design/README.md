@@ -18,7 +18,7 @@ Welcome to my design projects section. This area showcases my work related to we
 - **Wireframes:** Wireframes and user flows were meticulously crafted to guide the redesign process. These wireframes served as the blueprint for the new app, outlining the layout, content placement, and user interactions.
 - **Prototyping:** To bring the redesigned app to life, we used prototyping tools to create interactive mockups. These prototypes allowed us to visualize how users would interact with the app and test the usability of the new design.
 - [Read more](project2.md) about this project
-
 <br>
+
 [Back to Main Page](../README.md)
 
