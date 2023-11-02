@@ -5,6 +5,9 @@ Design a Landing Page for a Music Streaming Service.
 
 ## Taskflow + Wireflow
 
+<div style="display: flex; align-items: center;">
+  <img src="portfolio/taskflow1.jpg" alt="SoundWave Logo" width="200" height="auto">
+  <div>
 **Taskflow:**
 - User starts at the landing page, given the option to:
   - Discover more music provided by SoundWave, the music streaming service.
