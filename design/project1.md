@@ -10,11 +10,11 @@ Design a Landing Page for a Music Streaming Service.
 **Taskflow:** 
 
 Page 1 -- User starts at the **Landing page**, given the option to:
-  - Discover more music provided by SoundWave, the music streaming service.
-  - Join SoundWave (membership).
+- Discover more music provided by SoundWave, the music streaming service.
+- Join SoundWave (membership).
 
 Page 2 -- **Discover page** 
-- User is then given three options
+- User is then given three options:
   - Explore charts.
   - Explore albums.
   - Explore more.
@@ -32,36 +32,34 @@ Page 3-- **Join Page**
 ## Design Details
 
 #### Building SoundWave Logo
-- Describe how you created the SoundWave logo.
+- Figma, usage of eclipse tool and vector tool to create wave like icon
+- image here
 
 #### Final SoundWave Logo
-- Include an image of the final SoundWave logo.
+- image of the final SoundWave logo Here
 
 #### Buttons: mic, stack, arrow.
-- Describe the buttons used on the landing page.
+- Buttons for Landing Page:
+  - mic icon to represent chart option,
+  - stack icon to represent albums
+  - arrow icon to represent more. 
+  - Social media icons for company outreach
 
-#### Iconography
-- Explain how you created icons.
-- Logo: Using the Eclipse tool and vector tool to create a wave-like icon.
-- Buttons on the Landing Page:
-  - Mic icon represents chart option.
-  - Stack icon represents albums.
-  - Arrow icon represents more.
-- Extra: Social media icons for company outreach.
-  - Icons taken from unDraw, an open source illustration, and SVG depository.
+*Icons taken from unDraw, an open source illustration, and SVG depository.*
 
 ### Landing Page
 
 - Landing Page
   - Users are given discover and join options on the top right of the page.
   - Join Now button in the center of the page encourages users to join the service.
-  - Model is calm while listening to music, coherent with the brand name of wave.
+  - Model is calm while listening to music, coherent with the logo design of "wave".
+- insert image here
 
 ### Discover Page
-
 - Discover Page
   - Users are given an option to explore charts, albums, or more.
   - Collection of albums that are included in the service is displayed on the right-hand side.
+- insert image here
 
 ### Join Page
 
