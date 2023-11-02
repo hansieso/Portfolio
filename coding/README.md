@@ -5,7 +5,7 @@ Welcome to my coding projects section. This area showcases my coding skills for 
 ## Project 1: Web Design + UI - Music Streaming Service Landing Page (full code) 
 
 - **Challenge:** Design a landing page for a music streaming service.
-- **Description:** Our project's core challenge was to craft an engaging and visually captivating landing page for a music streaming service. We wanted to create an immersive experience for visitors, offering a glimpse into the world of SoundWave, our client's music platform. The landing page needed to be a perfect blend of artistry and functionality, inviting users to explore the service and potentially become members.
+- **Description:** Our project's core challenge was to craft an engaging and visually captivating landing page for a music streaming service. We wanted to create an immersive experience for visitors, offering a glimpse into the world of SoundWave. The landing page needed to be a perfect blend of artistry and functionality, inviting users to explore the service and potentially become members.
 - **HTML & CSS:** The code that breathes life into the design, shaping every visual element and user interaction. Explore the intricacies of HTML and CSS implementation, understanding how the landing page was meticulously crafted. [Click Here](https://github.com/hansieso/Portfolio/tree/main/coding/project1) to access the code that powers this project.
 - [Read More](https://github.com/hansieso/Portfolio/blob/main/design/project1.md) about the full design.
 
