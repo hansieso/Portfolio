@@ -2,7 +2,7 @@
 
 Welcome to my design projects section. This area showcases my work related to web design, UI/UX, app design, and logo design.
 
-## Project 1: Web Design - Music Streaming Service Landing Page
+## Project 1: Web Design + UI - Music Streaming Service Landing Page
 
 - **Challenge:** Design a landing page for a music streaming service.
 - **Description:** Provide a brief description of the project.
