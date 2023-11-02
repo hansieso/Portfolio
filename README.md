@@ -1,6 +1,7 @@
 # Hans's Portfolio
 
 Welcome to my portfolio! I'm Hans, and I'm passionate about Coding, Design, Game development, and Project Management. This portfolio showcases a selection of my work and projects in these areas.
+<img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/menhotpot.png" alt="Final SoundWave Logo" width="400">
 
 ## About Me
 
