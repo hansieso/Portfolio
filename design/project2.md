@@ -27,7 +27,8 @@ Man in suit to represent profile picture of user.
 - Clock displayed to user in task page to help user indicate how much time they have to do set tasks — help plan out tasks to do.
 <img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/clockicon.jpg" alt="Clock Icon" width="200">
 <img src="https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/timeicon.png" alt="Time Icon" width="200">
-- Display greeting depending on time of day. 
+Also Display greeting depending on time of day.
+<br>
 - Font used: Poppins
 
 - Addition Icon
