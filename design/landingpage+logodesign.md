@@ -86,4 +86,6 @@ CSS:
 
 For the full code and more details, please visit the project [here](https://github.com/hansieso/Portfolio/tree/main/coding/landingpage%2Blogodesign).
 <br> <br>
+
+Browse more Design Projects [here].(https://github.com/hansieso/Portfolio/tree/main/design)
 [Back to Main Page](../README.md)
