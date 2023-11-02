@@ -8,7 +8,7 @@ Welcome to my design projects section. This area showcases my work related to we
 - **Description:** Dive into the world of SoundWave, where design meets music. Our challenge was to create a captivating landing page for a music streaming service. The result? An enticing gateway to a world of music, complete with thoughtfully designed user pathways, a meticulously crafted brand logo, and engaging iconography.
 - **Wireflow:** Design elements used -- standout business logo, captivating images, Intuitive buttons and icongraphy to guide users. 
 - **HTML & CSS:** The project includes the HTML and CSS details for the site header. This code lays the foundation for the project's visual elements and navigation. [See full code](https://github.com/hansieso/Portfolio/blob/main/coding/project1.html)
-![Landing Page](https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/landingp.png)
+![Landing Page](https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/landingp.png = 300x)
 - [Click Here](project1.md) to read and see more about this project.
   
 ## Project 2: UI/UX Design - Mobile App Redesign
