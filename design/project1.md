@@ -1,6 +1,6 @@
 ## ToDo: A Productivity Mobile App (Prototype)
 
-## Challenge
+## Task
 Design a Landing Page for a Music Streaming Service.
 
 ## Taskflow + Wireflow
