@@ -10,6 +10,7 @@ Welcome to my coding projects section. This area showcases my coding skills for 
 - [Read More](https://github.com/hansieso/Portfolio/blob/main/design/project1.md) about the full design. 
 <img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/code1.png" alt="html code1" width="400">
 <img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/stylescss.png" alt="html code1" width="400">
+
 ## Project 2: UI/UX Design - Mobile App Redesign
 
 - **Challenge:** Redesign a mobile app for improved user experience.
