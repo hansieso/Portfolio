@@ -9,6 +9,7 @@ Using Pinterest and the typography-rich archives of FontLibrary, I drew inspirat
 <br>
 <img src = "https://github.com/hansieso/Portfolio/blob/fb7b1257f00396fb336146cae5ca6bb3a7c88d7b/Github%20Portfolio%20Pictures/Pintrest%2BH1.png" height = "300" width = "400">
 <img src = "https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/pintrest%2BH2.png" height = "300" width = "400">
+<img src = "https://github.com/hansieso/Portfolio/blob/c6024229e01e0f13af8cc17bff9352f62f62477a/Github%20Portfolio%20Pictures/3D%2Btypo.png">
 
 ## Design using Figma ##
 Through Figma, I refined our designs and explored font types, sizes, and structures. By utilizing the "Roto" plugin, I achieved a three-dimensional effect, bringing depth and character to our logo, patterned with various dashes. I continued to experiment with font types, size, and structure. In particular, I tried to take parts of the letters H and S and used the flatten function, to take apart and piece together the letters.
