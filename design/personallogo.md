@@ -9,7 +9,7 @@ Using Pinterest and the typography-rich archives of FontLibrary, I drew inspirat
 <br>
 <img src = "https://github.com/hansieso/Portfolio/blob/fb7b1257f00396fb336146cae5ca6bb3a7c88d7b/Github%20Portfolio%20Pictures/Pintrest%2BH1.png" height = "300" width = "400">
 <img src = "https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/pintrest%2BH2.png" height = "300" width = "400">
-<img src = "https://github.com/hansieso/Portfolio/blob/c6024229e01e0f13af8cc17bff9352f62f62477a/Github%20Portfolio%20Pictures/3D%2Btypo.png" height = "250">
+<img src = "https://github.com/hansieso/Portfolio/blob/c6024229e01e0f13af8cc17bff9352f62f62477a/Github%20Portfolio%20Pictures/3D%2Btypo.png" height = "300">
 <img src = "https://github.com/hansieso/Portfolio/blob/688d8df5e832396199890d19d9bc60d7c72f6578/Github%20Portfolio%20Pictures/HS%2Btypography%2B1.png">
 
 ## Design using Figma ##
