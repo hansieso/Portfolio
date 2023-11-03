@@ -17,9 +17,9 @@ Through Figma, I refined our designs and explored font types, sizes, and structu
 
 Solid and Vectored (striped) H’s, presented in different angles.
 <img src = "https://github.com/hansieso/Portfolio/blob/2fc3ff50e4c39129006262490219de532d909de3/Github%20Portfolio%20Pictures/figma%2Bsketch%2BHS.png" height = "400">
-<br>
 
-3D H with smoothed out edges, vectored (striped) pink H used as background + the combination of the two designs. 
+<br>
+3D H with smoothed-out edges, vectored (striped) pink H used as background + the combination of the two designs. 
 <img src = "https://github.com/hansieso/Portfolio/blob/2fc3ff50e4c39129006262490219de532d909de3/Github%20Portfolio%20Pictures/3DH'sfig.png">
 
 ## Final edits/applications ##
