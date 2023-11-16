@@ -6,15 +6,13 @@ Welcome to my portfolio! I'm Hans, and I'm passionate about Coding, Design, Game
 
 ## About Me
 
-I am a penultimate year student at UCLA pursuing a major in Cognitive Science and a minor in Digital Humanities.
+I am a penultimate-year student at UCLA pursuing a major in Cognitive Science and a minor in Digital Humanities.
 
 ## Explore My Work
 
 Here, you can explore my work based on different categories:
-
-- [**Coding**](coding/README.md): Discover my coding projects and contributions.
 - [**Design**](design/README.md): View my design work and visual projects.
-- [**Gaming**](gaming/README.md): Check out my game development and gaming projects.
+- [**Coding + Game Dev**](coding/README.md): Discover my coding and game development projects.
 - [**Operations + Project Management**](project-product-management/README.md): See how I've managed and promoted various projects.
 
 Feel free to click on the category links above to explore each section in detail.
