@@ -1,6 +1,6 @@
 # Coding Projects
 
-Welcome to my coding projects section. This area showcases my coding skills for frontend development, game development, as well as solution to problem sets.
+Welcome to my coding projects section. This area showcases my coding skills for frontend development and game development.
 
 ## Flappy Bird Implementation
 - **Challenge:** Design a simple version of Flappy Bird
