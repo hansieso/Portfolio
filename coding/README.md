@@ -1,6 +1,6 @@
 # Coding Projects
 
-Welcome to my coding projects section. This area showcases my coding skills for front-end development and game development.
+Welcome to my coding projects section. This area showcases my coding skills for web development and game development.
 
 ## Python (pygame): Ninja Runner
 - **Challenge**: Develop an engaging endless runner game
