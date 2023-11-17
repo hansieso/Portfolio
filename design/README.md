@@ -14,7 +14,7 @@ Welcome to my design projects section. This area showcases my work related to we
   
 ## UI/UX Design - Mobile App Redesign
 
-- **Challenge:** Redesign a mobile app for improved user experience.
+- **Challenge:** Design a mobile app for improved student accountability on campus.
 - **Description:** In this project, we aimed to enhance the user experience of an existing mobile app by revamping its interface and functionality. The goal was to create an app that offers an intuitive, user-friendly, and visually appealing experience for our users. The redesign focused on streamlining the user journey, improving navigation, and enhancing the overall aesthetic.
 - **Wireframe:** Wireframes and user flows were meticulously crafted to guide the redesign process. These wireframes served as the blueprint for the new app, outlining the layout, content placement, and user interactions.
 - **Prototyping:** To bring the redesigned app to life, we used prototyping tools to create interactive mockups. These prototypes allowed us to visualize how users would interact with the app and test the usability of the new design.
