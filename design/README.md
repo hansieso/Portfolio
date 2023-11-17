@@ -1,6 +1,6 @@
 # Design Projects
 
-Welcome to my design projects section. This area showcases my work related to web + app design, UI/UX, logo design, as well as game and pixel art design.
+Welcome to my design projects section. This area showcases my work related to web + app design, UI/UX, and logo design.
 
 ## Web Design + UI - Music Streaming Service Landing Page
 
