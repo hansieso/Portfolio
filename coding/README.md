@@ -9,7 +9,7 @@ Welcome to my coding projects section. This area showcases my coding skills for 
 
 <img src=https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/Flappybirdplay1.png alt = "flappybird1" width="250" height = "250">
 
-## HTML + CSS Web Design + UI - Music Streaming Service Landing Page (full code) 
+## HTML + CSS: Web Design - Music Streaming Service Landing Page (full code) 
 - **Challenge:** Design a landing page for a music streaming service.
 - **Description:** The project's core challenge was to craft an engaging and visually captivating landing page for a music streaming service. We wanted to create an immersive experience for visitors, offering a glimpse into the world of SoundWave. The landing page needed to be a perfect blend of artistry and functionality, inviting users to explore the service and potentially become members.
 - **HTML & CSS:** Here is the code that shapes every visual element and user interaction. [Click Here](https://github.com/hansieso/Portfolio/tree/main/coding/landingpage%2Blogodesign) to access the code.
