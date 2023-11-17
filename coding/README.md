@@ -9,12 +9,6 @@ Welcome to my coding projects section. This area showcases my coding skills for 
 
 <img src= "https://github.com/hansieso/Portfolio/blob/b673cbac11e77ccc41498a67eda25c9099d05d03/Github%20Portfolio%20Pictures/NinjaRunner.png" alt = "ninjarunner" width="400" height="400">
 
-## Java: Flappy Bird Implementation
-- **Challenge:** Design a simple version of Flappy Bird
-- **Description:** Simple implementation of Flappy Bird using Java Swing. Hit Space to play the game.
-- [Click Here](https://github.com/hansieso/Portfolio/tree/main/coding/flappybird) to access the code and read more about the full game design.
-
-<img src=https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/Flappybirdplay1.png alt = "flappybird1" width="250" height = "250">
 
 ## HTML + CSS: Web Design - Music Streaming Service Landing Page (full code) 
 - **Challenge:** Design a landing page for a music streaming service.
@@ -23,6 +17,15 @@ Welcome to my coding projects section. This area showcases my coding skills for 
 - [Read More](https://github.com/hansieso/Portfolio/blob/main/design/landingpage%2Blogodesign.md) about the full design.
 
 <img src="https://github.com/hansieso/Portfolio/blob/33c699c6e72f48223be60e1d90509e77f1ce3b05/Github%20Portfolio%20Pictures/code1.png" alt="html code1" width="400">
+
+
+## Java: Flappy Bird Implementation
+- **Challenge:** Design a simple version of Flappy Bird
+- **Description:** Simple implementation of Flappy Bird using Java Swing. Hit Space to play the game.
+- [Click Here](https://github.com/hansieso/Portfolio/tree/main/coding/flappybird) to access the code and read more about the full game design.
+
+<img src=https://github.com/hansieso/Portfolio/blob/main/Github%20Portfolio%20Pictures/Flappybirdplay1.png alt = "flappybird1" width="250" height = "250">
+
 
 <br>
 
