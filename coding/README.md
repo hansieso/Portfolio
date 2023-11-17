@@ -5,7 +5,7 @@ Welcome to my coding projects section. This area showcases my coding skills for 
 ## Python (pygame): Ninja Runner
 - **Challenge**: Develop an engaging endless runner game
 - **Description**: Ninja Runner is an endless runner game created in Python using the Pygame library. Take control of the ninja character, navigate through enemies and obstacles, and eliminate all opponents to beat the game! The game features dynamic cloud rendering, physics-based character movements, and particle effects.
-- [Click Here](https://github.com/hansieso/Portfolio/tree/main/coding/ninjagame) to access the code and read more about the full game design and takeaways.
+- [Click Here](https://github.com/hansieso/Portfolio/tree/main/coding/ninjagame) to access the code and read more about the full game design and my personal takeaways.
 
 <img src= "https://github.com/hansieso/Portfolio/blob/b673cbac11e77ccc41498a67eda25c9099d05d03/Github%20Portfolio%20Pictures/NinjaRunner.png" alt = "ninjarunner" width="400" height="400">
 
