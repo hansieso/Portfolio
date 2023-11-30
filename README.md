@@ -1,6 +1,6 @@
 # Hans's Portfolio
 
-Welcome to my portfolio! I'm Hans, and I'm passionate about Coding, Design, Game Development, and Project Management. This portfolio showcases a selection of my work and projects in these areas.
+Welcome to my general portfolio! I'm Hans, and I'm passionate about Design, Coding, Game Development, and Project Management. This portfolio showcases a selection of my work and projects in these areas. My main portfolio has moved here: [(https://hansso.framer.website/)]
 <br>
 <img src="Github Portfolio Pictures/menhotpot.PNG" width="200"/>
 
@@ -11,7 +11,12 @@ I am a penultimate-year student at UCLA pursuing a major in Cognitive Science an
 ## Explore My Work
 
 Here, you can explore my work based on different categories:
-- [**Design**](design/README.md): View my design work and visual projects.
+
+# Main: 
+- [**UI/UX Design**](https://hansso.framer.website/): View my design work and visual projects. My full porfolio for my UI/UX process is up! Simply click the link to Design.
+
+# Fun/Others:
+- [**Visual Design**](design/README.md): View my other design work, outside of UI/UX. This includes Web Dev and some other past projects. 
 - [**Coding + Game Dev**](coding/README.md): Discover my coding and game development projects.
 - [**Operations + Project Management**](project-product-management/README.md): See how I've managed and promoted various projects.
 
