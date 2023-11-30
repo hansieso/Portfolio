@@ -1,6 +1,6 @@
 # Hans's Portfolio
 
-Welcome to my general portfolio! I'm Hans, and I'm passionate about Design, Coding, Game Development, and Project Management. This portfolio showcases a selection of my work and projects in these areas. My main portfolio has moved here: [(https://hansso.framer.website/)]
+Welcome to my general portfolio! I'm Hans, and I'm passionate about Design, Coding, Game Development, and Project Management. This portfolio showcases a selection of my work and projects in these areas. My main portfolio has moved here: https://hansso.framer.website
 <br>
 <img src="Github Portfolio Pictures/menhotpot.PNG" width="200"/>
 
