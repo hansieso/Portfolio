@@ -14,7 +14,7 @@ I am a penultimate-year student at UCLA pursuing a major in Cognitive Science an
 Here, you can explore my work based on different categories:
 
 ## MAIN: 
-- [**UI/UX Design**](https://hansso.framer.website/): View my design work and visual projects. My full porfolio for my UI/UX process is up! Simply click the link.
+- [**UI/UX Design**](https://hansso.framer.website/): View my design work and visual projects. My full porfolio with my UI/UX process is up! Simply click the link.
 
 ## Fun/Others:
 - [**Visual Design**](design/README.md): View my other design work, outside of UI/UX. This includes Web Dev and some other past projects. 
