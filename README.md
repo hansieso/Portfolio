@@ -8,7 +8,7 @@ Welcome to my general portfolio! I'm Hans, and I'm passionate about Design, Codi
 
 ## About Me
 
-I am a penultimate-year student at UCLA pursuing a major in Cognitive Science and a minor in Digital Humanities.
+I am a student at UCLA pursuing a major in Cognitive Science (specialization in computing) and a minor in Digital Humanities.
 
 ## Explore My Work
 
